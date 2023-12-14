@@ -1,1 +1,1 @@
-!(Xbox in action)[/res/screenshot1.jpg]
+[Xbox in action](/res/screenshot1.jpg)
