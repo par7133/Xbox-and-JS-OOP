@@ -1,5 +1,5 @@
 <h1>Xbox-and-JS-OOP</h1>   
-Playing Xbox by Javascript OOP   
+Playing Xbox by Javascript OOP<br><br>
 
 For any need of software additions, plugins and improvements please write to <a href="mailto:info@5mode.com">info@5mode.com</a>  
 
