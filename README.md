@@ -7,4 +7,4 @@ To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox
 
 <img src="/res/screenshot1.jpg" style="border:2px solid lightgray">
 
-Feedback: <a href="mailto:code@gaox.eu">code@gaox.eu</a>
+Feedback: <a href="mailto:code@gaox.io">code@gaox.io</a>
